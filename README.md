@@ -16,4 +16,4 @@ Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 2. sınıf ö�
  <h2>🤝Sosyal Medya Hesaplarım </h2>
 
 [<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="60" height="50" />](https://www.linkedin.com/in/berkcan-g%C3%BCm%C3%BC%C5%9F%C4%B1%C5%9F%C4%B1k-20452b199?originalSubdomain=tr) 
-[<img src="https://play-lh.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw=s180-rw" width="50" height="50" />](https://www.instagram.com/https://www.instagram.com/berkcangumusisik/)
+[<img src="https://play-lh.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw=s180-rw" width="50" height="50" />](https://www.instagram.com/berkcangumusisik/)
