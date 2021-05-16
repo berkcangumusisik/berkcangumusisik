@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**berkcangumusisik/berkcangumusisik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center"> **💻Berkcan Gümüşışık**</h1>
 
@@ -13,4 +11,3 @@
 
 [<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="50" height="50" />](https://www.linkedin.com/in/berkcan-g%C3%BCm%C3%BC%C5%9F%C4%B1%C5%9F%C4%B1k-20452b199?originalSubdomain=tr) 
 [<img src="https://play-lh.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw=s180-rw" width="50" height="50" />](https://www.instagram.com/https://www.instagram.com/berkcangumusisik/)
-[<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_200_200/0
