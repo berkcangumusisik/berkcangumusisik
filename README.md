@@ -1,7 +1,7 @@
 ### Merhaba 👋
 
 ### Ben Kimim
-Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 2. sınıf öğrencisiyim. Java, Backend, Frontend üzerine çalışıyorum. Gelecekte Siber Güvenlik ve oyun alanı hariç birçok alanda kendimi geliştirmeyi düşünüyorum.
+Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 2. sınıf öğrencisiyim. Ayrıca DSC GAZİ Core Team ekibinde yer almaktayım. Java, Backend, Frontend üzerine çalışıyorum. Gelecekte Siber Güvenlik ve oyun alanı hariç birçok alanda kendimi geliştirmeyi düşünüyorum.
 
 ***:computer:	DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
 <br>
