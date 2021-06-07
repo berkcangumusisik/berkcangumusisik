@@ -57,3 +57,7 @@ Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 2. sınıf ö�
   <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></img>
 
 </p>
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/berkcangumusisik/count.svg" />
+</p>
