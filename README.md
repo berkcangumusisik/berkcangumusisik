@@ -1,11 +1,23 @@
-### Merhaba 👋
+<h1 align="center">Merhaba 👋, Ben Berkcan Gümüşışık </h1>
 
 ### Ben Kimim
-Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 2. sınıf öğrencisiyim. Ayrıca DSC GAZİ Core Team ekibinde yer almaktayım. Java, Backend, Frontend üzerine çalışıyorum. Gelecekte Siber Güvenlik ve oyun alanı hariç birçok alanda kendimi geliştirmeyi düşünüyorum.
+- :computer:Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 3. sınıf öğrencisiyim. 
+- :computer:DSC GAZİ Core Team ekibinde yer almaktayım. 
+- :computer:Full Stack Developer olmak için çabalıyorum. 
+- :computer:Kendimi her alanda geliştirmee çalışıyorum. 
+- 📫 Bana ulaşmak isterseniz **gumusisikberkcan@gmail.com** adresini kullanabilirsiniz. 
 
 ***:computer:	DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
 <br>
+
 ***Bölümüm öğretmenlik olsada ideallerimden asla vazgeçemem.:medal_military:***
+
+<p align="center">
+  <img src= "https://gpvc.arturio.dev/berkcangumusisik" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/berkcangumusisik?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/berkcangumusisik?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkcangumusisik"/></a> </p>
 
 
 <h1 align="center"> 💻Berkcan Gümüşışık</h1>
@@ -14,9 +26,12 @@ Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 2. sınıf ö�
 <a href="https://github.com/githubadın"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcangumusisik&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=15" /></a>
 
  <h2 align="center">🤝Sosyal Medya Hesaplarım </h2>
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/berkcan-g%C3%BCm%C3%BC%C5%9F%C4%B1%C5%9F%C4%B1k-20452b199?originalSubdomain=tr) 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/berkcangumusisik/)
+<p align="left">
+<a href="linkedin.com/in/berkcan-gümüşışık" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
+<a href="https://instagram.com/berkcangumusisik" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
+<a href="https://medium.com/@gumusisikberkcan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40" />
+</a>
+</p>
 
 <h2 align="center">Languages & Frameworks</h2>
 
