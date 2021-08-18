@@ -1,4 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Berkcan Gümüşışık </h1>
+ <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
 
 ### Ben Kimim
 - :computer:Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 3. sınıf öğrencisiyim. 
@@ -17,13 +19,15 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/berkcangumusisik?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/berkcangumusisik?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkcangumusisik"/></a> </p>
-
 
 <h1 align="center"> 💻Berkcan Gümüşışık</h1>
-
-<a href="https://github.com/berkcangumusisik"><img align="center" src="https://github-readme-stats.vercel.app/api?username=berkcangumusisik&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-<a href="https://github.com/githubadın"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcangumusisik&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=15" /></a>
+<p align="center">
+<a href="https://github.com/berkcangumusisik">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=berkcangumusisik&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+ <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcangumusisik&layout=compact&langs_count=16&theme=react"/>
+ </div>
+</p>
 
  <h2 align="center">🤝Sosyal Medya Hesaplarım </h2>
 <p align="left">
@@ -37,42 +41,41 @@
 
 <p align="center">
   
-  <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-  <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
-  <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
+<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
 </p>
 
 <h2 align="center">⚡ Database</h2>
 
 <p align="center">
   
-  <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
-  <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
-  <img src = "https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></img>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png"></code>
+
 </p>
 
 <h2 align="center">👩‍💻 Kullandığım IDE Çeşitleri</h2>
 
 <p align="center">
   
-  <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
-  <img src = "https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></img>
-  <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></img>
+<code><img height="40" width="40" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest/scale-to-width-down/250?cb=20191221122625"></code>
+<code><img height="40" width="40" src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"></code>
+<code><img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/eclipse-logo-vector.svg"></code>
+
 </p>
 <h2 align="center">👩‍🖍📐 Design</h2>
 
 <p align="center">
   
-  <img src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></img>
-  <img src = "https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"></img>
-  <img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></img>
-  <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></img>
+<code><img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552222.png"></code>
+<code><img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552220.png"></code>
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbMt0PbIuYZFwggnJtEI2ROZ9IuOwWjMCZBE6DIlHcYD1Lg-mX5az3Nd7uHJHIfUyztY&usqp=CAU"></code>
 
 </p>
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/berkcangumusisik/count.svg" />
-</p>
+
+
+   
