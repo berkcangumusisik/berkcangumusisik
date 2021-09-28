@@ -31,7 +31,7 @@
 
  <h2 align="center">🤝Sosyal Medya Hesaplarım </h2>
 <p align="left">
-<a href="www.linkedin.com/in/berkcan-gümüşışık" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/berkcan-gümüşışık/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
 <a href="https://instagram.com/berkcangumusisik" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
 <a href="https://medium.com/@gumusisikberkcan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40" />
 </a>
