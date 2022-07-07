@@ -3,7 +3,7 @@
 <br/>
 
 ### Ben Kimim
-- :computer:Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 3. sınıf öğrencisiyim.  
+- :computer:Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 4. sınıf öğrencisiyim.  
 - :computer:YetGen lideriyim. 
 - :computer:Full Stack Developer olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
