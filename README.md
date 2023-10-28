@@ -6,17 +6,14 @@
 <br/>
 
 ### Ben Kimim
-- :computer:Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 4. sınıf öğrencisiyim. 
-- :computer:YetGen liderliği ve Python eğitmenliği yapmaktayım.
+- :computer:Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümünü 1. olarak tamamladım.
+- :computer:YetGen IT Eş Ekip Lideri olarak görev yapmaktayım
 - :computer:Full Stack Developer olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **gumusisikberkcan@gmail.com** adresini kullanabilirsiniz. 
 
 ***:computer:	DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
 <br>
-
-***Bölümüm öğretmenlik olsada ideallerimden asla vazgeçemem.:medal_military:***
-
 <p align="center">
   <img src= "https://gpvc.arturio.dev/berkcangumusisik" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/berkcangumusisik?label=Followers&style=social"> •   
