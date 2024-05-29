@@ -32,7 +32,6 @@
  
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=berkcangumusisik&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
  
- [![ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=berkcangumusisik&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
