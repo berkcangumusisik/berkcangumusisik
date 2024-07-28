@@ -7,7 +7,7 @@
 
 ### Ben Kimim
 - :computer:Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümünü 1. olarak tamamladım.
-- :computer:YetGen IT Eş Ekip Lideri olarak görev yapmaktayım
+- :computer:YetGen IT Ekip Lideri olarak görev yapmaktayım
 - :computer:Full Stack Developer olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **gumusisikberkcan@gmail.com** adresini kullanabilirsiniz. 
