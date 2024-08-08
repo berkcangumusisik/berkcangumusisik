@@ -7,6 +7,7 @@
 
 ### Ben Kimim
 - :computer:Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümünü 1. olarak tamamladım.
+- :computer:Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi Yüksek Lisans'ına başladım.
 - :computer:YetGen IT Ekip Lideri olarak görev yapmaktayım
 - :computer:Full Stack Developer olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
