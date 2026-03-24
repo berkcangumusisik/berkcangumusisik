@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+.NET+Core;Flutter+%7C+TypeScript+%7C+Python;AI-Powered+Development" alt="Typing SVG" />
 </div>
