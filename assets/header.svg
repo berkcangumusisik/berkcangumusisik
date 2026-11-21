@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-label="Berkcan Gümüşışık: Full Stack Developer and AI Builder">
+<title>Berkcan Gümüşışık: Full Stack Developer and AI Builder</title>
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  .mono { font-family: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  .fade { animation: fadeUp .7s ease-out both; }
+  
+  @keyframes float1 { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(60px, 30px); } }
+  @keyframes float2 { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(-70px, -25px); } }
+  @keyframes blink { 50% { opacity: 0; } }
+  .orb1 { animation: float1 14s ease-in-out infinite; }
+  .orb2 { animation: float2 16s ease-in-out infinite; }
+  .cursor { animation: blink 1s step-end infinite; }
+
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0A0F1A"/><stop offset="1" stop-color="#0D1424"/>
+  </linearGradient>
+  <linearGradient id="role" x1="70" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#00D4FF"/><stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.045"/>
+  </pattern>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <clipPath id="frame"><rect width="1200" height="340" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <circle class="orb1" cx="180" cy="40" r="170" fill="#00D4FF" fill-opacity="0.22" filter="url(#blur)"/>
+  <circle class="orb2" cx="1080" cy="320" r="190" fill="#8B5CF6" fill-opacity="0.28" filter="url(#blur)"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="339" rx="20" stroke="#253041"/>
+
+<g class="fade">
+  <text class="mono" x="70" y="104" font-size="15" letter-spacing="4" fill="#00D4FF">HI THERE, I'M</text>
+</g>
+<g class="fade" style="animation-delay:.15s">
+  <text class="sans" x="68" y="170" font-size="58" font-weight="800" fill="#E6EDF3">Berkcan Gümüşışık</text>
+</g>
+<g class="fade" style="animation-delay:.3s">
+  <text class="sans" x="70" y="214" font-size="25" font-weight="600" fill="url(#role)">Full Stack Developer · AI Builder</text>
+</g>
+<g class="fade" style="animation-delay:.45s">
+  <text class="mono" x="70" y="254" font-size="15" fill="#8B949E">&gt; React · Next.js · React Native · Python · LLMs<tspan class="cursor" fill="#00D4FF"> ▍</tspan></text>
+</g>
+<g class="fade" style="animation-delay:.6s">
+  <rect x="70" y="276" width="244" height="32" rx="16" fill="#3FB950" fill-opacity="0.12" stroke="#3FB950" stroke-opacity="0.45"/>
+  <circle cx="90" cy="292" r="5" fill="#3FB950"/>
+  <text class="sans" x="104" y="297" font-size="14" font-weight="600" fill="#7EE787">Software Engineer @ Arya</text>
+</g>
+
+<g class="fade" style="animation-delay:.4s">
+  <rect x="662" y="58" width="498" height="232" rx="14" fill="#0D1117" fill-opacity="0.85" stroke="#253041"/>
+  <path d="M662 72a14 14 0 0 1 14-14h470a14 14 0 0 1 14 14v22H662z" fill="#161B22"/>
+  <circle cx="684" cy="76" r="6" fill="#FF5F57"/>
+  <circle cx="704" cy="76" r="6" fill="#FEBC2E"/>
+  <circle cx="724" cy="76" r="6" fill="#28C840"/>
+  <text class="mono" x="911" y="81" font-size="13" fill="#8B949E" text-anchor="middle">berkcan.ts</text>
+</g>
+<text class="mono fade" x="692" y="136" font-size="13" xml:space="preserve" style="animation-delay:0.60s"><tspan fill="#8B5CF6">const </tspan><tspan fill="#00D4FF">berkcan</tspan><tspan fill="#E6EDF3"> = {</tspan></text>
+<text class="mono fade" x="692" y="160" font-size="13" xml:space="preserve" style="animation-delay:0.78s"><tspan fill="#7EE787">  role</tspan><tspan fill="#E6EDF3">: </tspan><tspan fill="#A5D6FF">"Software Engineer @ Arya"</tspan><tspan fill="#E6EDF3">,</tspan></text>
+<text class="mono fade" x="692" y="184" font-size="13" xml:space="preserve" style="animation-delay:0.96s"><tspan fill="#7EE787">  stack</tspan><tspan fill="#E6EDF3">: [</tspan><tspan fill="#A5D6FF">"React"</tspan><tspan fill="#E6EDF3">, </tspan><tspan fill="#A5D6FF">"Next.js"</tspan><tspan fill="#E6EDF3">, </tspan><tspan fill="#A5D6FF">"React Native"</tspan><tspan fill="#E6EDF3">, </tspan><tspan fill="#A5D6FF">"Python"</tspan><tspan fill="#E6EDF3">],</tspan></text>
+<text class="mono fade" x="692" y="208" font-size="13" xml:space="preserve" style="animation-delay:1.14s"><tspan fill="#7EE787">  ai</tspan><tspan fill="#E6EDF3">: [</tspan><tspan fill="#A5D6FF">"Fine-tuning"</tspan><tspan fill="#E6EDF3">, </tspan><tspan fill="#A5D6FF">"RAG"</tspan><tspan fill="#E6EDF3">, </tspan><tspan fill="#A5D6FF">"Agents"</tspan><tspan fill="#E6EDF3">],</tspan></text>
+<text class="mono fade" x="692" y="232" font-size="13" xml:space="preserve" style="animation-delay:1.32s"><tspan fill="#7EE787">  education</tspan><tspan fill="#E6EDF3">: </tspan><tspan fill="#A5D6FF">"Gazi Univ. (BSc 1st, MSc)"</tspan><tspan fill="#E6EDF3">,</tspan></text>
+<text class="mono fade" x="692" y="256" font-size="13" xml:space="preserve" style="animation-delay:1.50s"><tspan fill="#7EE787">  location</tspan><tspan fill="#E6EDF3">: </tspan><tspan fill="#A5D6FF">"Ankara, TR"</tspan><tspan fill="#E6EDF3">,</tspan></text>
+<text class="mono fade" x="692" y="280" font-size="13" xml:space="preserve" style="animation-delay:1.68s"><tspan fill="#E6EDF3">};</tspan></text>
+</svg>

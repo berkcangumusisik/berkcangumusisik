@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none" role="img" aria-label="Don't repeat yourself. Every new project is a new adventure.">
+<title>Don't repeat yourself. Every new project is a new adventure.</title>
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  .mono { font-family: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  .fade { animation: fadeUp .7s ease-out both; }
+  
+  @keyframes wave { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+  .w1 { animation: wave 18s linear infinite; }
+  .w2 { animation: wave 26s linear infinite reverse; }
+
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <linearGradient id="wg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#00D4FF"/><stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+  <clipPath id="clip"><rect width="1200" height="260" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="260" fill="#0A0F1A"/>
+  <g transform="translate(0 168)">
+    <path class="w2" d="M0 60 C 150 20 300 100 450 60 S 750 20 900 60 S 1050 100 1200 60 S 1350 20 1500 60 S 1800 100 1950 60 S 2250 20 2400 60 V 140 H 0 Z" fill="#8B5CF6" fill-opacity="0.18"/>
+    <path class="w1" d="M0 60 C 150 20 300 100 450 60 S 750 20 900 60 S 1050 100 1200 60 S 1350 20 1500 60 S 1800 100 1950 60 S 2250 20 2400 60 V 140 H 0 Z" fill="url(#wg)" fill-opacity="0.28" transform="translate(0 14)"/>
+  </g>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="259" rx="20" stroke="#253041"/>
+<text class="mono fade" x="600" y="70" font-size="15" letter-spacing="4" fill="#00D4FF" text-anchor="middle">// DON'T REPEAT YOURSELF</text>
+<text class="sans fade" x="600" y="122" font-size="34" font-weight="800" fill="#E6EDF3" text-anchor="middle" style="animation-delay:.15s">Every new project is a new adventure.</text>
+<text class="sans fade" x="600" y="162" font-size="18" fill="#8B949E" text-anchor="middle" style="animation-delay:.3s">Let's build the next one together.</text>
+</svg>

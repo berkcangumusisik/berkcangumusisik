@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" fill="none" role="img" aria-label="Contribution streak: 55 days current, 63 days longest">
+<title>Contribution streak: 55 days current, 63 days longest</title>
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  .mono { font-family: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  .fade { animation: fadeUp .7s ease-out both; }
+  
+  @keyframes draw { from { stroke-dashoffset: 289.0; } to { stroke-dashoffset: 0; } }
+  .ring { stroke-dasharray: 289.0; animation: draw 1.4s ease-out both .2s; }
+
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#00D4FF"/><stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="999" height="209" rx="16" fill="#111823" stroke="#253041"/>
+<rect x="24" y="0.5" width="952" height="2" rx="1" fill="url(#accent)"/>
+<defs>
+  <linearGradient id="ringGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#FFB347"/><stop offset="1" stop-color="#FF5F6D"/>
+  </linearGradient>
+</defs>
+<line x1="333" y1="44" x2="333" y2="166" stroke="#253041"/>
+<line x1="667" y1="44" x2="667" y2="166" stroke="#253041"/>
+
+<g class="fade" style="animation-delay:.1s" text-anchor="middle">
+  <text class="sans" x="167" y="96" font-size="40" font-weight="800" fill="#E6EDF3">5,512</text>
+  <text class="sans" x="167" y="132" font-size="15" font-weight="600" fill="#00D4FF">Total Contributions</text>
+  <text class="sans" x="167" y="156" font-size="12.5" fill="#8B949E">Dec 1, 2020 – Present</text>
+</g>
+
+<g class="fade" style="animation-delay:.2s" text-anchor="middle">
+  <circle cx="500" cy="86" r="46" stroke="#253041" stroke-width="6"/>
+  <circle class="ring" cx="500" cy="86" r="46" stroke="url(#ringGrad)" stroke-width="6" stroke-linecap="round" transform="rotate(-90 500 86)"/>
+  <rect x="486" y="28" width="28" height="28" rx="14" fill="#111823"/>
+  <path transform="translate(492 33)" fill="#FF8C42" d="M8 16c3.314 0 6-2 6-5.5 0-1.5-.5-4-2.5-6 .25 1.5-1.25 2-1.25 2C11 4 9 .5 6 0c.357 2 .5 4-2 6-1.25 1-2 2.729-2 4.5C2 14 4.686 16 8 16m0-1c-1.657 0-3-1-3-2.75 0-.75.25-2 1.25-3C6.125 10 7 10.5 7 10.5c-.375-1.25.5-3.25 2-3.5-.179 1-.25 2 1 3 .625.5 1 1.364 1 2.25C11 14 9.657 15 8 15"/>
+  <text class="sans" x="500" y="100" font-size="38" font-weight="800" fill="#E6EDF3">55</text>
+  <text class="sans" x="500" y="160" font-size="15" font-weight="600" fill="#FF8C42">Current Streak</text>
+  <text class="sans" x="500" y="182" font-size="12.5" fill="#8B949E">Sep 27, 2026 – Nov 20, 2026</text>
+</g>
+
+<g class="fade" style="animation-delay:.3s" text-anchor="middle">
+  <text class="sans" x="833" y="96" font-size="40" font-weight="800" fill="#E6EDF3">63</text>
+  <text class="sans" x="833" y="132" font-size="15" font-weight="600" fill="#8B5CF6">Longest Streak</text>
+  <text class="sans" x="833" y="156" font-size="12.5" fill="#8B949E">Apr 28, 2026 – Jun 29, 2026</text>
+</g>
+</svg>

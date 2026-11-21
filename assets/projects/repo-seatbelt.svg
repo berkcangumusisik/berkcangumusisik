@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="196" viewBox="0 0 500 196" fill="none" role="img" aria-label="repo-seatbelt: Safety layer for AI coding agents: CLAUDE.md / AGENTS.md generator, MCP runtime guardrail, pre-commit hook and GitHub Action.">
+<title>repo-seatbelt: Safety layer for AI coding agents: CLAUDE.md / AGENTS.md generator, MCP runtime guardrail, pre-commit hook and GitHub Action.</title>
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  .mono { font-family: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  .fade { animation: fadeUp .7s ease-out both; }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="500" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#00D4FF"/><stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="499" height="195" rx="16" fill="#111823" stroke="#253041"/>
+<rect x="24" y="0.5" width="452" height="2" rx="1" fill="url(#accent)"/>
+<g class="fade">
+  <path transform="translate(28 31)" fill="#00D4FF" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/>
+  <text class="sans" x="54" y="45" font-size="19" font-weight="700" fill="#E6EDF3">repo-seatbelt</text>
+  <text class="sans" x="28" y="84" font-size="14" fill="#8B949E">Safety layer for AI coding agents: CLAUDE.md / AGENTS.md</text><text class="sans" x="28" y="105" font-size="14" fill="#8B949E">generator, MCP runtime guardrail, pre-commit hook and GitHub</text><text class="sans" x="28" y="126" font-size="14" fill="#8B949E">Action.</text>
+  <rect x="28" y="146" width="43" height="24" rx="12" fill="#00D4FF" fill-opacity="0.08" stroke="#00D4FF" stroke-opacity="0.3"/><text class="sans" x="49.5" y="162" font-size="12" font-weight="600" fill="#7DD3FC" text-anchor="middle">MCP</text><rect x="79" y="146" width="92" height="24" rx="12" fill="#00D4FF" fill-opacity="0.08" stroke="#00D4FF" stroke-opacity="0.3"/><text class="sans" x="125.0" y="162" font-size="12" font-weight="600" fill="#7DD3FC" text-anchor="middle">Guardrails</text><rect x="179" y="146" width="78" height="24" rx="12" fill="#00D4FF" fill-opacity="0.08" stroke="#00D4FF" stroke-opacity="0.3"/><text class="sans" x="218.0" y="162" font-size="12" font-weight="600" fill="#7DD3FC" text-anchor="middle">DevTools</text>
+  <g class="sans" font-size="13" fill="#8B949E" text-anchor="end">
+  <text x="472" y="163" xml:space="preserve"><tspan fill="#3178c6">●</tspan> TypeScript   ★ 8   ⑂ 1</text>
+</g>
+</g>
+</svg>

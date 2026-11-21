@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="522" viewBox="0 0 1000 522" fill="none" role="img" aria-label="Work experience">
+<title>Work experience</title>
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  .mono { font-family: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  .fade { animation: fadeUp .7s ease-out both; }
+  
+  @keyframes pulse { from { transform: scale(1); opacity: .7; } to { transform: scale(2.6); opacity: 0; } }
+  .pulse { animation: pulse 1.8s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#00D4FF"/><stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="999" height="521" rx="16" fill="#111823" stroke="#253041"/>
+<rect x="24" y="0.5" width="952" height="2" rx="1" fill="url(#accent)"/>
+<text class="mono fade" x="28" y="46" font-size="12.5" letter-spacing="2" fill="#00D4FF">EXPERIENCE</text>
+<line x1="44" y1="91" x2="44" y2="457" stroke="#253041" stroke-width="2"/>
+<g class="fade" style="animation-delay:0.10s">
+  <circle class="pulse" cx="44" cy="91" r="6" fill="#3FB950"/>
+  <circle cx="44" cy="91" r="6" fill="#111823" stroke="#3FB950" stroke-width="3"/>
+  <text class="sans" x="72" y="96" font-size="16.5"><tspan font-weight="700" fill="#E6EDF3">Arya Investment Platform</tspan><tspan fill="#7DD3FC">  ·  Software Engineer</tspan></text>
+  <text class="mono" x="972" y="96" font-size="12.5" fill="#7EE787" text-anchor="end">Mar 2026 – Present · İstanbul</text>
+  
+</g>
+<g class="fade" style="animation-delay:0.20s">
+  
+  <circle cx="44" cy="145" r="6" fill="#111823" stroke="#00D4FF" stroke-width="3"/>
+  <text class="sans" x="72" y="150" font-size="16.5"><tspan font-weight="700" fill="#E6EDF3">Pazaryeri Converter</tspan><tspan fill="#7DD3FC">  ·  Full Stack Developer</tspan></text>
+  <text class="mono" x="972" y="150" font-size="12.5" fill="#8B949E" text-anchor="end">Jan 2025 – Jun 2025 · Ankara</text>
+  <text class="sans" x="72" y="174" font-size="13.5" fill="#8B949E">Re-engineered the platform with React, .NET Core &amp; MUI; integrated 10+ marketplace APIs (Trendyol, Hepsiburada, İkas)</text>
+</g>
+<g class="fade" style="animation-delay:0.30s">
+  
+  <circle cx="44" cy="223" r="6" fill="#111823" stroke="#00D4FF" stroke-width="3"/>
+  <text class="sans" x="72" y="228" font-size="16.5"><tspan font-weight="700" fill="#E6EDF3">TrendPiyasa</tspan><tspan fill="#7DD3FC">  ·  Full Stack Developer</tspan></text>
+  <text class="mono" x="972" y="228" font-size="12.5" fill="#8B949E" text-anchor="end">Jan 2025 – Jun 2025 · Ankara</text>
+  <text class="sans" x="72" y="252" font-size="13.5" fill="#8B949E">Mobile-first seller &amp; buyer panels with Next.js, Tailwind and Ant Design on top of .NET REST APIs</text>
+</g>
+<g class="fade" style="animation-delay:0.40s">
+  
+  <circle cx="44" cy="301" r="6" fill="#111823" stroke="#00D4FF" stroke-width="3"/>
+  <text class="sans" x="72" y="306" font-size="16.5"><tspan font-weight="700" fill="#E6EDF3">Priente Group</tspan><tspan fill="#7DD3FC">  ·  Frontend Developer</tspan></text>
+  <text class="mono" x="972" y="306" font-size="12.5" fill="#8B949E" text-anchor="end">Nov 2024 – Dec 2024 · Ankara</text>
+  <text class="sans" x="72" y="330" font-size="13.5" fill="#8B949E">Shipped 5 responsive web platforms and a real-time Three.js cyberattack dashboard for Guardpot</text>
+</g>
+<g class="fade" style="animation-delay:0.50s">
+  
+  <circle cx="44" cy="379" r="6" fill="#111823" stroke="#00D4FF" stroke-width="3"/>
+  <text class="sans" x="72" y="384" font-size="16.5"><tspan font-weight="700" fill="#E6EDF3">Yetkin Gençler (YetGen)</tspan><tspan fill="#7DD3FC">  ·  IT Co-Chief Leader · Python Trainer</tspan></text>
+  <text class="mono" x="972" y="384" font-size="12.5" fill="#8B949E" text-anchor="end">Feb 2022 – Nov 2024 · İstanbul</text>
+  <text class="sans" x="72" y="408" font-size="13.5" fill="#8B949E">Ran IT operations for 150+ members; taught Python to 120 students with a 95% completion rate</text>
+</g>
+<g class="fade" style="animation-delay:0.60s">
+  
+  <circle cx="44" cy="457" r="6" fill="#111823" stroke="#00D4FF" stroke-width="3"/>
+  <text class="sans" x="72" y="462" font-size="16.5"><tspan font-weight="700" fill="#E6EDF3">VBT Yazılım</tspan><tspan fill="#7DD3FC">  ·  Software Developer Intern</tspan></text>
+  <text class="mono" x="972" y="462" font-size="12.5" fill="#8B949E" text-anchor="end">Jul 2022 – Aug 2022 · Remote</text>
+  <text class="sans" x="72" y="486" font-size="13.5" fill="#8B949E">Full-stack development on live projects</text>
+</g>
+</svg>

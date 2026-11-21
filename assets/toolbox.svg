@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="204" viewBox="0 0 1000 204" fill="none" role="img" aria-label="AI and machine learning toolbox">
+<title>AI and machine learning toolbox</title>
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  .mono { font-family: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  .fade { animation: fadeUp .7s ease-out both; }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#00D4FF"/><stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="999" height="203" rx="16" fill="#111823" stroke="#253041"/>
+<rect x="24" y="0.5" width="952" height="2" rx="1" fill="url(#accent)"/>
+<text class="mono fade" x="28" y="40" font-size="12.5" letter-spacing="2" fill="#00D4FF">AI &amp; MACHINE LEARNING</text>
+<g class="fade" style="animation-delay:0.00s">
+  <rect x="28" y="56" width="95.19999999999999" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="46" cy="74" r="5" fill="#EE4C2C"/>
+  <text class="sans" x="60" y="79" font-size="14.5" font-weight="600" fill="#E6EDF3">PyTorch</text>
+</g>
+<g class="fade" style="animation-delay:0.05s">
+  <rect x="131.2" y="56" width="133.2" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="149.2" cy="74" r="5" fill="#FFD21E"/>
+  <text class="sans" x="163.2" y="79" font-size="14.5" font-weight="600" fill="#E6EDF3">Hugging Face</text>
+</g>
+<g class="fade" style="animation-delay:0.10s">
+  <rect x="272.4" y="56" width="133.2" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="290.4" cy="74" r="5" fill="#FF9D00"/>
+  <text class="sans" x="304.4" y="79" font-size="14.5" font-weight="600" fill="#E6EDF3">Transformers</text>
+</g>
+<g class="fade" style="animation-delay:0.15s">
+  <rect x="413.59999999999997" y="56" width="87.6" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="431.59999999999997" cy="74" r="5" fill="#FFFFFF"/>
+  <text class="sans" x="445.59999999999997" y="79" font-size="14.5" font-weight="600" fill="#E6EDF3">Ollama</text>
+</g>
+<g class="fade" style="animation-delay:0.20s">
+  <rect x="509.19999999999993" y="56" width="102.8" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="527.1999999999999" cy="74" r="5" fill="#FF6446"/>
+  <text class="sans" x="541.1999999999999" y="79" font-size="14.5" font-weight="600" fill="#E6EDF3">ChromaDB</text>
+</g>
+<g class="fade" style="animation-delay:0.25s">
+  <rect x="619.9999999999999" y="56" width="87.6" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="637.9999999999999" cy="74" r="5" fill="#F97316"/>
+  <text class="sans" x="651.9999999999999" y="79" font-size="14.5" font-weight="600" fill="#E6EDF3">Gradio</text>
+</g>
+<g class="fade" style="animation-delay:0.30s">
+  <rect x="715.5999999999999" y="56" width="64.8" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="733.5999999999999" cy="74" r="5" fill="#00D4FF"/>
+  <text class="sans" x="747.5999999999999" y="79" font-size="14.5" font-weight="600" fill="#E6EDF3">RAG</text>
+</g>
+<g class="fade" style="animation-delay:0.35s">
+  <rect x="788.3999999999999" y="56" width="125.6" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="806.3999999999999" cy="74" r="5" fill="#8B5CF6"/>
+  <text class="sans" x="820.3999999999999" y="79" font-size="14.5" font-weight="600" fill="#E6EDF3">Fine-tuning</text>
+</g>
+<text class="mono fade" x="28" y="132" font-size="12.5" letter-spacing="2" fill="#00D4FF">AI-POWERED DEVELOPMENT</text>
+<g class="fade" style="animation-delay:0.00s">
+  <rect x="28" y="148" width="87.6" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="46" cy="166" r="5" fill="#FFFFFF"/>
+  <text class="sans" x="60" y="171" font-size="14.5" font-weight="600" fill="#E6EDF3">Cursor</text>
+</g>
+<g class="fade" style="animation-delay:0.05s">
+  <rect x="123.6" y="148" width="125.6" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="141.6" cy="166" r="5" fill="#D97757"/>
+  <text class="sans" x="155.6" y="171" font-size="14.5" font-weight="600" fill="#E6EDF3">Claude Code</text>
+</g>
+<g class="fade" style="animation-delay:0.10s">
+  <rect x="257.2" y="148" width="102.8" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="275.2" cy="166" r="5" fill="#58E5BB"/>
+  <text class="sans" x="289.2" y="171" font-size="14.5" font-weight="600" fill="#E6EDF3">Windsurf</text>
+</g>
+<g class="fade" style="animation-delay:0.15s">
+  <rect x="368.0" y="148" width="148.39999999999998" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="386.0" cy="166" r="5" fill="#8957E5"/>
+  <text class="sans" x="400.0" y="171" font-size="14.5" font-weight="600" fill="#E6EDF3">GitHub Copilot</text>
+</g>
+<g class="fade" style="animation-delay:0.20s">
+  <rect x="524.4" y="148" width="118.0" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="542.4" cy="166" r="5" fill="#10A37F"/>
+  <text class="sans" x="556.4" y="171" font-size="14.5" font-weight="600" fill="#E6EDF3">OpenAI API</text>
+</g>
+<g class="fade" style="animation-delay:0.25s">
+  <rect x="650.4" y="148" width="87.6" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="668.4" cy="166" r="5" fill="#4285F4"/>
+  <text class="sans" x="682.4" y="171" font-size="14.5" font-weight="600" fill="#E6EDF3">Gemini</text>
+</g>
+<g class="fade" style="animation-delay:0.30s">
+  <rect x="746.0" y="148" width="95.19999999999999" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="764.0" cy="166" r="5" fill="#FF4F8B"/>
+  <text class="sans" x="778.0" y="171" font-size="14.5" font-weight="600" fill="#E6EDF3">Lovable</text>
+</g>
+<g class="fade" style="animation-delay:0.35s">
+  <rect x="849.2" y="148" width="64.8" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.03" stroke="#253041"/>
+  <circle cx="867.2" cy="166" r="5" fill="#00D4FF"/>
+  <text class="sans" x="881.2" y="171" font-size="14.5" font-weight="600" fill="#E6EDF3">MCP</text>
+</g>
+</svg>

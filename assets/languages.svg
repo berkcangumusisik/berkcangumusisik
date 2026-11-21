@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="230" viewBox="0 0 500 230" fill="none" role="img" aria-label="Most used languages">
+<title>Most used languages</title>
+<style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+  .mono { font-family: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  .fade { animation: fadeUp .7s ease-out both; }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="500" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#00D4FF"/><stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="499" height="229" rx="16" fill="#111823" stroke="#253041"/>
+<rect x="24" y="0.5" width="452" height="2" rx="1" fill="url(#accent)"/>
+<defs><clipPath id="bar"><rect x="24" y="66" width="452" height="10" rx="5"/></clipPath></defs>
+<text class="sans fade" x="24" y="44" font-size="18" font-weight="700" fill="#E6EDF3">Most Used Languages</text>
+<text class="sans fade" x="476" y="44" font-size="12" fill="#8B949E" text-anchor="end">by primary language of repos</text>
+<g clip-path="url(#bar)" class="fade"><rect x="24.00" y="66" width="127.47" height="10" fill="#3572A5"/><rect x="150.97" y="66" width="76.68" height="10" fill="#3178c6"/><rect x="227.15" y="66" width="71.60" height="10" fill="#f1e05a"/><rect x="298.25" y="66" width="66.52" height="10" fill="#7355dd"/><rect x="364.27" y="66" width="46.21" height="10" fill="#e34c26"/><rect x="409.98" y="66" width="41.13" height="10" fill="#b07219"/><rect x="450.61" y="66" width="15.74" height="10" fill="#663399"/><rect x="465.84" y="66" width="10.66" height="10" fill="#4F5D95"/></g>
+<g class="fade" style="animation-delay:0.15s">
+  <circle cx="30" cy="108" r="5" fill="#3572A5"/>
+  <text class="sans" x="44" y="112" font-size="13.5" fill="#E6EDF3">Python</text>
+  <text class="mono" x="238" y="112" font-size="12.5" fill="#8B949E" text-anchor="end">28.1%</text>
+</g>
+<g class="fade" style="animation-delay:0.22s">
+  <circle cx="260" cy="108" r="5" fill="#3178c6"/>
+  <text class="sans" x="274" y="112" font-size="13.5" fill="#E6EDF3">TypeScript</text>
+  <text class="mono" x="468" y="112" font-size="12.5" fill="#8B949E" text-anchor="end">16.9%</text>
+</g>
+<g class="fade" style="animation-delay:0.29s">
+  <circle cx="30" cy="136" r="5" fill="#f1e05a"/>
+  <text class="sans" x="44" y="140" font-size="13.5" fill="#E6EDF3">JavaScript</text>
+  <text class="mono" x="238" y="140" font-size="12.5" fill="#8B949E" text-anchor="end">15.7%</text>
+</g>
+<g class="fade" style="animation-delay:0.36s">
+  <circle cx="260" cy="136" r="5" fill="#7355dd"/>
+  <text class="sans" x="274" y="140" font-size="13.5" fill="#E6EDF3">C#</text>
+  <text class="mono" x="468" y="140" font-size="12.5" fill="#8B949E" text-anchor="end">14.6%</text>
+</g>
+<g class="fade" style="animation-delay:0.43s">
+  <circle cx="30" cy="164" r="5" fill="#e34c26"/>
+  <text class="sans" x="44" y="168" font-size="13.5" fill="#E6EDF3">HTML</text>
+  <text class="mono" x="238" y="168" font-size="12.5" fill="#8B949E" text-anchor="end">10.1%</text>
+</g>
+<g class="fade" style="animation-delay:0.50s">
+  <circle cx="260" cy="164" r="5" fill="#b07219"/>
+  <text class="sans" x="274" y="168" font-size="13.5" fill="#E6EDF3">Java</text>
+  <text class="mono" x="468" y="168" font-size="12.5" fill="#8B949E" text-anchor="end">9.0%</text>
+</g>
+<g class="fade" style="animation-delay:0.57s">
+  <circle cx="30" cy="192" r="5" fill="#663399"/>
+  <text class="sans" x="44" y="196" font-size="13.5" fill="#E6EDF3">CSS</text>
+  <text class="mono" x="238" y="196" font-size="12.5" fill="#8B949E" text-anchor="end">3.4%</text>
+</g>
+<g class="fade" style="animation-delay:0.64s">
+  <circle cx="260" cy="192" r="5" fill="#4F5D95"/>
+  <text class="sans" x="274" y="196" font-size="13.5" fill="#E6EDF3">PHP</text>
+  <text class="mono" x="468" y="196" font-size="12.5" fill="#8B949E" text-anchor="end">2.2%</text>
+</g>
+</svg>
