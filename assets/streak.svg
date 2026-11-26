@@ -27,7 +27,7 @@
 <line x1="667" y1="44" x2="667" y2="166" stroke="#253041"/>
 
 <g class="fade" style="animation-delay:.1s" text-anchor="middle">
-  <text class="sans" x="167" y="96" font-size="40" font-weight="800" fill="#E6EDF3">5,575</text>
+  <text class="sans" x="167" y="96" font-size="40" font-weight="800" fill="#E6EDF3">5,578</text>
   <text class="sans" x="167" y="132" font-size="15" font-weight="600" fill="#00D4FF">Total Contributions</text>
   <text class="sans" x="167" y="156" font-size="12.5" fill="#8B949E">Dec 1, 2020 – Present</text>
 </g>
