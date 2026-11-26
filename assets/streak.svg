@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" fill="none" role="img" aria-label="Contribution streak: 3 days current, 63 days longest">
-<title>Contribution streak: 3 days current, 63 days longest</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" fill="none" role="img" aria-label="Contribution streak: 4 days current, 63 days longest">
+<title>Contribution streak: 4 days current, 63 days longest</title>
 <style>
   .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
   .mono { font-family: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
@@ -27,7 +27,7 @@
 <line x1="667" y1="44" x2="667" y2="166" stroke="#253041"/>
 
 <g class="fade" style="animation-delay:.1s" text-anchor="middle">
-  <text class="sans" x="167" y="96" font-size="40" font-weight="800" fill="#E6EDF3">5,561</text>
+  <text class="sans" x="167" y="96" font-size="40" font-weight="800" fill="#E6EDF3">5,565</text>
   <text class="sans" x="167" y="132" font-size="15" font-weight="600" fill="#00D4FF">Total Contributions</text>
   <text class="sans" x="167" y="156" font-size="12.5" fill="#8B949E">Dec 1, 2020 – Present</text>
 </g>
@@ -37,9 +37,9 @@
   <circle class="ring" cx="500" cy="86" r="46" stroke="url(#ringGrad)" stroke-width="6" stroke-linecap="round" transform="rotate(-90 500 86)"/>
   <rect x="486" y="28" width="28" height="28" rx="14" fill="#111823"/>
   <path transform="translate(492 33)" fill="#FF8C42" d="M8 16c3.314 0 6-2 6-5.5 0-1.5-.5-4-2.5-6 .25 1.5-1.25 2-1.25 2C11 4 9 .5 6 0c.357 2 .5 4-2 6-1.25 1-2 2.729-2 4.5C2 14 4.686 16 8 16m0-1c-1.657 0-3-1-3-2.75 0-.75.25-2 1.25-3C6.125 10 7 10.5 7 10.5c-.375-1.25.5-3.25 2-3.5-.179 1-.25 2 1 3 .625.5 1 1.364 1 2.25C11 14 9.657 15 8 15"/>
-  <text class="sans" x="500" y="100" font-size="38" font-weight="800" fill="#E6EDF3">3</text>
+  <text class="sans" x="500" y="100" font-size="38" font-weight="800" fill="#E6EDF3">4</text>
   <text class="sans" x="500" y="160" font-size="15" font-weight="600" fill="#FF8C42">Current Streak</text>
-  <text class="sans" x="500" y="182" font-size="12.5" fill="#8B949E">Nov 23, 2026 – Nov 25, 2026</text>
+  <text class="sans" x="500" y="182" font-size="12.5" fill="#8B949E">Nov 23, 2026 – Nov 26, 2026</text>
 </g>
 
 <g class="fade" style="animation-delay:.3s" text-anchor="middle">
